@@ -20,15 +20,15 @@ This project is a technical assessment for the RnD Intern position at Flamapp.AI
 
 ## Screenshots & GIFs
 
-*(Please add screenshots or a GIF of the working Android application here.)*
+
 
 **Android App in Action:**
 <img width="1440" height="900" alt="Screenshot 2025-11-14 at 2 03 49 AM" src="https://github.com/user-attachments/assets/1a014fc0-d192-4dd0-a41b-c5b233b4b60e" />
 
-`[Your GIF Here]`
+
 
 **Web Viewer:**
-`[Your Screenshot Here]`
+
 <img width="1440" height="900" alt="Screenshot 2025-11-14 at 2 07 28 AM" src="https://github.com/user-attachments/assets/577023b8-44ad-4071-91c8-4954abc8c255" />
 
 ---
