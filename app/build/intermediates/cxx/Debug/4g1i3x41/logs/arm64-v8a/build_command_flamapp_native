@@ -1,0 +1,4 @@
+/Users/dheeraj/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/dheeraj/Desktop/saketh/app/.cxx/Debug/4g1i3x41/arm64-v8a \
+  flamapp_native

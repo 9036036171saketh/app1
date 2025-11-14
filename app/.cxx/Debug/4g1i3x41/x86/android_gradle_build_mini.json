@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/dheeraj/Desktop/saketh/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/dheeraj/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/dheeraj/Desktop/saketh/app/.cxx/Debug/4g1i3x41/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/dheeraj/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/dheeraj/Desktop/saketh/app/.cxx/Debug/4g1i3x41/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "flamapp_native::@6890427a1f51a3e7e1df": {
+      "artifactName": "flamapp_native",
+      "abi": "x86",
+      "output": "/Users/dheeraj/Desktop/saketh/app/build/intermediates/cxx/Debug/4g1i3x41/obj/x86/libflamapp_native.so",
+      "runtimeFiles": []
+    }
+  }
+}

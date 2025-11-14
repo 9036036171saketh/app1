@@ -1,0 +1,3 @@
+/Users/dheeraj/Desktop/saketh/app/.cxx/Debug/4g1i3x41/arm64-v8a/CMakeFiles/flamapp_native.dir
+/Users/dheeraj/Desktop/saketh/app/.cxx/Debug/4g1i3x41/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/dheeraj/Desktop/saketh/app/.cxx/Debug/4g1i3x41/arm64-v8a/CMakeFiles/rebuild_cache.dir

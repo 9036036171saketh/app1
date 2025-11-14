@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Processed Frame Viewer</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: #121212;
+            color: #e0e0e0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        #container {
+            border: 1px solid #444;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        img {
+            max-width: 90vw;
+            max-height: 70vh;
+            border: 1px solid #333;
+            margin-bottom: 15px;
+        }
+        #stats {
+            font-size: 0.9em;
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1>Edge Detection Viewer</h1>
+        <video id="video" playsinline autoplay muted style="position: absolute; top: -9999px; left: -9999px;"></video>
+        <canvas id="canvas"></canvas>
+        <div id="stats"></div>
+    </div>
+    <script src="dist/main.js"></script>
+</body>
+</html>

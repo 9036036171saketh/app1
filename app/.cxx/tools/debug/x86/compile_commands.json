@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/dheeraj/Desktop/saketh/app/.cxx/Debug/4g1i3x41/x86",
+  "command": "/Users/dheeraj/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android24 --sysroot=/Users/dheeraj/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dflamapp_native_EXPORTS -isystem /Users/dheeraj/Desktop/saketh/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/flamapp_native.dir/native-lib.cpp.o -c /Users/dheeraj/Desktop/saketh/jni/native-lib.cpp",
+  "file": "/Users/dheeraj/Desktop/saketh/jni/native-lib.cpp"
+}
+]

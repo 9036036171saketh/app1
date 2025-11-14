@@ -1,0 +1,18 @@
+/Users/dheeraj/Library/Android/sdk/cmake/3.22.1/bin/cmake \
+  -H/Users/dheeraj/Desktop/jni \
+  -DCMAKE_SYSTEM_NAME=Android \
+  -DCMAKE_EXPORT_COMPILE_COMMANDS=ON \
+  -DCMAKE_SYSTEM_VERSION=24 \
+  -DANDROID_PLATFORM=android-24 \
+  -DANDROID_ABI=x86 \
+  -DCMAKE_ANDROID_ARCH_ABI=x86 \
+  -DANDROID_NDK=/Users/dheeraj/Library/Android/sdk/ndk/25.1.8937393 \
+  -DCMAKE_ANDROID_NDK=/Users/dheeraj/Library/Android/sdk/ndk/25.1.8937393 \
+  -DCMAKE_TOOLCHAIN_FILE=/Users/dheeraj/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake \
+  -DCMAKE_MAKE_PROGRAM=/Users/dheeraj/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/dheeraj/Desktop/saketh/app/build/intermediates/cxx/Debug/592z91g9/obj/x86 \
+  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/dheeraj/Desktop/saketh/app/build/intermediates/cxx/Debug/592z91g9/obj/x86 \
+  -DCMAKE_BUILD_TYPE=Debug \
+  -B/Users/dheeraj/Desktop/saketh/app/.cxx/Debug/592z91g9/x86 \
+  -GNinja \
+  -Dflamapp_native_opencv_dir=/Users/dheeraj/Desktop/saketh/OpenCV-android-sdk/sdk

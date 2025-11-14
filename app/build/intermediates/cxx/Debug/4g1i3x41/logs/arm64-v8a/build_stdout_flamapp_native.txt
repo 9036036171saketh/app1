@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/dheeraj/Desktop/saketh/app/.cxx/Debug/4g1i3x41/arm64-v8a'
+ninja: no work to do.

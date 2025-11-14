@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/dheeraj/.gradle/daemon/8.2/com.flamapp.rnd.app-merged_res-36:/raw_vertex_shader.glsl.flat",
+        "source": "/Users/dheeraj/.gradle/daemon/8.2/com.flamapp.rnd.app-main-38:/raw/vertex_shader.glsl"
+    },
+    {
+        "merged": "com.flamapp.rnd.app-merged_res-36:/raw_vertex_shader.glsl.flat",
+        "source": "com.flamapp.rnd.app-main-38:/raw/vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/dheeraj/.gradle/daemon/8.2/com.flamapp.rnd.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/dheeraj/.gradle/daemon/8.2/com.flamapp.rnd.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.flamapp.rnd.app-merged_res-36:/raw_fragment_shader.glsl.flat",
+        "source": "com.flamapp.rnd.app-main-38:/raw/fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/dheeraj/.gradle/daemon/8.2/com.flamapp.rnd.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "/Users/dheeraj/.gradle/daemon/8.2/com.flamapp.rnd.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dheeraj/.gradle/daemon/8.2/com.flamapp.rnd.app-merged_res-36:/raw_fragment_shader.glsl.flat",
+        "source": "/Users/dheeraj/.gradle/daemon/8.2/com.flamapp.rnd.app-main-38:/raw/fragment_shader.glsl"
+    }
+]
