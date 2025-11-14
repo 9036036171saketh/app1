@@ -1,36 +1,39 @@
-# Flamapp.AI - Real-Time Edge Detection Viewer
+# Flamapp AI - Real-Time Edge Detection Viewer
 
 This project is a technical assessment for the RnD Intern position at Flamapp.AI. It implements a real-time edge detection viewer for Android, processing camera frames with OpenCV in C++ and rendering them with OpenGL ES. It also includes a minimal web-based viewer using TypeScript.
 
-## 📸 Features Implemented
+## Features Implemented
 
 ### Android
-- [ ] Real-time camera feed capture using `CameraX`.
-- [ ] Frame processing via JNI to a native C++ layer.
-- [ ] Canny Edge Detection using OpenCV in C++.
-- [ ] Real-time rendering of processed frames using OpenGL ES.
-- [ ] (Bonus) FPS counter for performance monitoring.
+-  Real-time camera feed capture using `CameraX`.
+-  Frame processing via JNI to a native C++ layer.
+-  Canny Edge Detection using OpenCV in C++.
+-  Real-time rendering of processed frames using OpenGL ES.
+-  (Bonus) FPS counter for performance monitoring.
 
 ### Web
-- [ ] Minimal web page built with TypeScript and HTML.
-- [ ] Displays a static, pre-processed sample frame.
-- [ ] Displays mock frame statistics (e.g., resolution, FPS).
+- Minimal web page built with TypeScript and HTML.
+- Displays a static, pre-processed sample frame.
+- Displays mock frame statistics (e.g., resolution, FPS).
 
 ---
 
-## 📷 Screenshots & GIFs
+## Screenshots & GIFs
 
 *(Please add screenshots or a GIF of the working Android application here.)*
 
 **Android App in Action:**
+<img width="1440" height="900" alt="Screenshot 2025-11-14 at 2 03 49 AM" src="https://github.com/user-attachments/assets/1a014fc0-d192-4dd0-a41b-c5b233b4b60e" />
+
 `[Your GIF Here]`
 
 **Web Viewer:**
 `[Your Screenshot Here]`
+<img width="1440" height="900" alt="Screenshot 2025-11-14 at 2 07 28 AM" src="https://github.com/user-attachments/assets/577023b8-44ad-4071-91c8-4954abc8c255" />
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 - Android Studio with NDK (Native Development Kit) installed.
@@ -64,7 +67,7 @@ This project is a technical assessment for the RnD Intern position at Flamapp.AI
 
 ---
 
-## 🧠 Architecture Explained
+##  Architecture Explained
 
 ### Frame Flow (Android)
 1.  **Camera Capture:** The `CameraX` API is used to capture frames from the device's camera efficiently. These frames are directed to a `SurfaceTexture`.
